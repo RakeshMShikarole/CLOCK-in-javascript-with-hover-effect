@@ -133,7 +133,7 @@ section.dark .sc::before{
   display: grid;
   place-items:center;
   position: absolute;
-  right: 300px;
+  right: 500px;
 }
 .toggle::before{
   content: '\f185';
